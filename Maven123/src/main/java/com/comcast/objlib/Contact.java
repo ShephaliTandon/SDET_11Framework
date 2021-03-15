@@ -11,8 +11,7 @@ public class Contact {
 	{
 		
 	}
-	
-	public void contacttest1(String name)
+	public void deletecontacttest(String name)
 	{
 		
 	}
