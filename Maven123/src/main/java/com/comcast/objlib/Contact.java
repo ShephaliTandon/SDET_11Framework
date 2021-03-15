@@ -11,4 +11,10 @@ public class Contact {
 	{
 		
 	}
+	
+	public void contacttest1(String name)
+	{
+		
+	}
 }
+
